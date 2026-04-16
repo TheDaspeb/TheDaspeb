@@ -25,9 +25,11 @@
 
 ```
 
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,nodejs,git" />
 </p>
+```
 
 ---
 

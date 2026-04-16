@@ -23,13 +23,6 @@
 
 ## 🧠 Tech Stack
 
-```ts
-const stack = {
-  frontend: ["React", "Next.js"],
-  backend: ["Node.js"],
-  languages: ["TypeScript", "JavaScript", "Python"],
-  tools: ["Git", "API REST", "Prisma"]
-};
 ```
 
 <p align="center">

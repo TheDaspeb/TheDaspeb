@@ -23,8 +23,13 @@
 
 ## 🧠 Tech Stack
 
-```
-
+```bash
+  const stack = {
+    frontend: ["react", "Next.js"]
+    backend: ["Node.js"]
+    languages: ["Typescript", "JavaScript", "Python"]
+    tools: ["GIT", "API REST", "Prisma"]
+}
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,nodejs,git" />
@@ -73,8 +78,8 @@
 > Awaiting connection...
 ```
 
-📧 [your_email@email.com](mail:daniel.perez.bustamante@gmail.com)
-💼 LinkedIn: [(pon tu link aquí)](https://www.linkedin.com/in/daniel-perez-787a88ab/)
+📧 [your_email@email.com](mailto:daniel.perez.bustamante@gmail.com)
+💼 LinkedIn: [(Mi perfil)](https://www.linkedin.com/in/daniel-perez-787a88ab/)
 
 ---
 

@@ -30,11 +30,12 @@
     languages: ["Typescript", "JavaScript", "Python"]
     tools: ["GIT", "API REST", "Prisma"]
 }
+```
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,nodejs,git" />
 </p>
-```
+
 
 ---
 

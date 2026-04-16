@@ -1,16 +1,92 @@
-## Hi there 👋
+# ⚡ Daniel Perez | TheDaspeb
 
-<!--
-**TheDaspeb/TheDaspeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Fullstack+Developer;Next.js+%7C+React+%7C+TS;Building+cool+stuff...)
 
-Here are some ideas to get you started:
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![snake gif](https://github.com/TheDaspeb/TheDaspeb/blob/output/github-contribution-grid-snake.svg)
+
+```bash
+> Initializing developer profile...
+> Status: ACTIVE 🚀
+```
+
+💻 Fullstack Developer (in progress)
+⚙️ Building modern web applications
+📍 Medellín, Colombia
+
+---
+
+## 🧠 Tech Stack
+
+```ts
+const stack = {
+  frontend: ["React", "Next.js"],
+  backend: ["Node.js"],
+  languages: ["TypeScript", "JavaScript", "Python"],
+  tools: ["Git", "API REST", "Prisma"]
+};
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,nodejs,git" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheDaspeb&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDaspeb&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## ⚡ Current Focus
+
+* 🚗 Real-time tracking apps
+* 🤖 Integración de IA en aplicaciones
+* ⚙️ Arquitecturas Fullstack modernas
+
+---
+
+## 🔥 Featured Projects
+
+```bash
+> Loading projects...
+```
+
+* 🚀 **Realtime Driver Tracking App**
+  Sistema tipo Uber con geolocalización en tiempo real
+
+* 💕 **Couple App Clone**
+  Aplicación interactiva estilo Couple Joy
+
+* ⚙️ **REST API**
+  Backend estructurado con Node.js + TypeScript
+
+---
+
+## 🌐 Connect
+
+```bash
+> Awaiting connection...
+```
+
+📧 [your_email@email.com](mailto:your_email@email.com)
+💼 LinkedIn: (pon tu link aquí)
+
+---
+
+## 🧬 Dev Philosophy
+
+```txt
+Code. Learn. Build. Repeat.
+```
+
+---
+
+<p align="center">
+  ⚡ "Building the future, one line of code at a time"
+</p>

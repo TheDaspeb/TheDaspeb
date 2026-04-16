@@ -1,9 +1,6 @@
 
 
-# ⚡ Daniel Perez | TheDaspeb
-
-
-<p align="center">
+<p align="center" style="font-size: 45px">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Daniel%20Perez%20|%20TheDaspeb&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 

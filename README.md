@@ -2,7 +2,7 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Fullstack+Developer;Next.js+%7C+React+%7C+TS;Building+cool+stuff...)
 
------
+---
 
 ![snake gif](https://github.com/TheDaspeb/TheDaspeb/blob/output/github-contribution-grid-snake.svg)
 
@@ -74,8 +74,8 @@ const stack = {
 > Awaiting connection...
 ```
 
-📧 [your_email@email.com](mailto:your_email@email.com)
-💼 LinkedIn: (pon tu link aquí)
+📧 [your_email@email.com](mail:daniel.perez.bustamante@gmail.com)
+💼 LinkedIn: [(pon tu link aquí)](https://www.linkedin.com/in/daniel-perez-787a88ab/)
 
 ---
 

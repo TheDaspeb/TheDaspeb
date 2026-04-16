@@ -6,6 +6,10 @@
 
 ---
 
+![snake gif](https://github.com/TheDaspeb/TheDaspeb/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ```bash
 > Initializing developer profile...
 > Status: ACTIVE 🚀

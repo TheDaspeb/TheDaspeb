@@ -2,7 +2,13 @@
 
 # ⚡ Daniel Perez | TheDaspeb
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Daniel%20Perez%20|%20TheDaspeb&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 ![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Fullstack+Developer;Next.js+%7C+React+%7C+TS;Building+cool+stuff...)
+
 
 ---
 
@@ -23,9 +29,28 @@
 
 ## 🧠 Tech Stack
 
+
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,python,nodejs,git" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60"/>
+  <img src="https://skillicons.dev/icons?i=js" height="60"/>
+  <img src="https://skillicons.dev/icons?i=react" height="60"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60"/>
+  <img src="https://skillicons.dev/icons?i=python" height="60"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
+  <img src="https://skillicons.dev/icons?i=git" height="60"/>
 </p>
+
+<p align="center">
+  TypeScript &nbsp;&nbsp;&nbsp;
+  JavaScript &nbsp;&nbsp;&nbsp;
+  React &nbsp;&nbsp;&nbsp;
+  Next.js &nbsp;&nbsp;&nbsp;
+  Python &nbsp;&nbsp;&nbsp;
+  Node.js &nbsp;&nbsp;&nbsp;
+  Git
+</p>
+
 
 
 ---

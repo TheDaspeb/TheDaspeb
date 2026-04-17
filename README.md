@@ -28,8 +28,6 @@
 
 
 
-## 🧠 Tech Stack
-
 <table align="center">
 <tr>
 <td align="center" width="110">
@@ -68,6 +66,7 @@ Git
 </td>
 </tr>
 </table>
+
 
 
 ---

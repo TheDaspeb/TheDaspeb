@@ -9,7 +9,7 @@
 
 ---
 
-![snake gif](https://github.com/TheDaspeb/TheDaspeb/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TheDaspeb/TheDaspeb/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 

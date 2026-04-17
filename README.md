@@ -28,26 +28,46 @@
 
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60"/>
-  <img src="https://skillicons.dev/icons?i=js" height="60"/>
-  <img src="https://skillicons.dev/icons?i=react" height="60"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60"/>
-  <img src="https://skillicons.dev/icons?i=python" height="60"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
-  <img src="https://skillicons.dev/icons?i=git" height="60"/>
-</p>
+## 🧠 Tech Stack
 
-<p align="center">
-  TypeScript &nbsp;&nbsp;&nbsp;
-  JavaScript &nbsp;&nbsp;&nbsp;
-  React &nbsp;&nbsp;&nbsp;
-  Next.js &nbsp;&nbsp;&nbsp;
-  Python &nbsp;&nbsp;&nbsp;
-  Node.js &nbsp;&nbsp;&nbsp;
-  Git
-</p>
+<table align="center">
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=ts" width="55"/><br>
+TypeScript
+</td>
 
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+JavaScript
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+React
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br>
+Next.js
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+Python
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
+Node.js
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+Git
+</td>
+</tr>
+</table>
 
 
 ---

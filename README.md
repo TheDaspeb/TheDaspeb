@@ -13,16 +13,6 @@
 
 ---
 
-```bash
-> Initializing developer profile...
-> Status: ACTIVE 🚀
-```
-
-💻 Fullstack Developer (in progress)
-⚙️ Building modern web applications
-📍 Medellín, Colombia
-
----
 
 ## 🧠 Tech Stack
 
@@ -30,6 +20,16 @@
 
 <table align="center">
 <tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+HTML
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+CSS
+</td>
+  
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=ts" width="55"/><br>
 TypeScript
@@ -66,7 +66,6 @@ Git
 </td>
 </tr>
 </table>
-
 
 
 ---
